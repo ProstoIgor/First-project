@@ -1,0 +1,13 @@
+ 
+    .two-columns__paragraph {
+      display: block;
+      margin: 0;
+      padding-bottom: 30px;
+      font-weight: normal;
+    }
+
+    .two-columns__paragraph:last-child {
+      padding-bottom: 0;
+    }
+  
+    
